@@ -1,0 +1,233 @@
+{
+  "version": "2",
+  "data": {
+    "platforms": [
+      {
+        "id": "preset-jiandanxinli",
+        "name": "简单心理",
+        "period": "2025.01–2025.06"
+      },
+      {
+        "id": "1779685126453-y25gq56",
+        "name": "Lofter",
+        "period": "2022.06-2022.08"
+      },
+      {
+        "id": "1779685269500-lkvcjuz",
+        "name": "Archive of Our Own",
+        "period": "2026.03-至今"
+      }
+    ],
+    "articles": [
+      {
+        "id": "a1",
+        "platformId": "preset-jiandanxinli",
+        "title": "为什么成年后，毛绒玩具更重要了",
+        "publishDate": "2025-02-18",
+        "reads": 22000,
+        "engagement": 2286,
+        "type": "科普文",
+        "url": "https://mp.weixin.qq.com/s/kU9SqW7fHHRgW-xap2U5GA",
+        "summary": "结合泡泡玛特、Jellycat等现象级IP的走红，深度分析Z世代情绪价值消费的底层驱动。从依恋理论到消费心理，探讨\"毛绒经济\"背后的心理原因。"
+      },
+      {
+        "id": "a2",
+        "platformId": "preset-jiandanxinli",
+        "title": "女性收入更少，可能是因为谦虚",
+        "publishDate": "2025-03-05",
+        "reads": 22000,
+        "engagement": 2111,
+        "type": "采访稿",
+        "url": "https://mp.weixin.qq.com/s/0gNMolQkhn6G3BR-MoONkg",
+        "summary": "「weekly」栏目：从前沿心理学期刊中筛选具有大众传播价值的研究，策划兼顾学术严谨性与读者可读性的选题方向并分配给签约作者，负责回稿审核与编辑。"
+      },
+      {
+        "id": "a3",
+        "platformId": "preset-jiandanxinli",
+        "title": "当闺蜜成为母亲：生育如何改变女性友谊",
+        "publishDate": "2025-03-12",
+        "reads": 29000,
+        "engagement": 3348,
+        "type": "科普文",
+        "url": "https://mp.weixin.qq.com/s/bio515anOfRFEabtjVujVA",
+        "summary": "结合女性主义视角与相关著作，探讨生育如何重塑女性的社交关系与自我认同。"
+      },
+      {
+        "id": "a4",
+        "platformId": "preset-jiandanxinli",
+        "title": "春季反而抑郁？6条心理防护指南",
+        "publishDate": "2025-03-18",
+        "reads": 29000,
+        "engagement": 3831,
+        "type": "科普文",
+        "url": "https://mp.weixin.qq.com/s/0S0KhWCCyztUtcyBcpqTjQ",
+        "summary": "以「春季反而更容易抑郁」这一反常识结论为钩子，援引顶级心理学期刊研究数据，将学术发现转化为关怀与科普。"
+      },
+      {
+        "id": "a5",
+        "platformId": "preset-jiandanxinli",
+        "title": "多久才能彻底放下一个人？",
+        "publishDate": "2025-03-27",
+        "reads": 44000,
+        "engagement": 1539,
+        "type": "科普文",
+        "url": "https://mp.weixin.qq.com/s/0G_pLdfrOJ7uZE86l_Qp7w",
+        "summary": "「weekly」栏目"
+      },
+      {
+        "id": "1779685241219-h2tvueb",
+        "platformId": "1779685126453-y25gq56",
+        "title": "「顾盼生辉」",
+        "publishDate": "2022-07-10",
+        "reads": 130000,
+        "engagement": 5593,
+        "type": "同人文/小说",
+        "url": "",
+        "summary": "电视剧梦华录同人文"
+      },
+      {
+        "id": "1779685304569-6fqe52w",
+        "platformId": "1779685269500-lkvcjuz",
+        "title": "猜拳",
+        "publishDate": "2026-03-01",
+        "reads": 199,
+        "engagement": 6,
+        "type": "同人文/小说",
+        "url": "",
+        "summary": "某综艺节目同人小说"
+      },
+      {
+        "id": "1779685939324-u8rtc34",
+        "platformId": "preset-jiandanxinli",
+        "title": "短视频时代，6个方法拯救「腐烂」的大脑",
+        "publishDate": "2025-04-08",
+        "reads": 20000,
+        "engagement": 3532,
+        "type": "科普文",
+        "url": "https://mp.weixin.qq.com/s/3VAuBCCNHwJ3KqQIKN_tfA",
+        "summary": "以2024年牛津年度词汇「脑腐（Brain Rot）」为切入点，将心理学研究转化为6个简单可操作的tips。采用轻盈语气而非说教式，提升内容接受度与传播性。"
+      },
+      {
+        "id": "1779686372494-bti9azb",
+        "platformId": "preset-jiandanxinli",
+        "title": "情绪自救，从找个「饭搭子」开始",
+        "publishDate": "2025-04-14",
+        "reads": 21000,
+        "engagement": 1300,
+        "type": "编辑稿",
+        "url": "https://mp.weixin.qq.com/s/Z791SBrmyi7AMAwJru8oFA",
+        "summary": "「weekly」栏目"
+      },
+      {
+        "id": "1779686463392-7s1narf",
+        "platformId": "preset-jiandanxinli",
+        "title": "胃病、闭经、湿疹、失明：藏在疾病后的情绪问题",
+        "publishDate": "2025-04-24",
+        "reads": 17000,
+        "engagement": 1879,
+        "type": "采访稿",
+        "url": "https://mp.weixin.qq.com/s/HfjdcF9mcGi-tB5aCRgsZQ",
+        "summary": "通过深度采访多位因长期情绪压抑而引发躯体化症状的真实案例，以群像叙事说明“躯体化”发生的逻辑。"
+      },
+      {
+        "id": "1779686514642-98hraer",
+        "platformId": "preset-jiandanxinli",
+        "title": "童年创伤很可能会让你变笨",
+        "publishDate": "2025-04-28",
+        "reads": 14000,
+        "engagement": 913,
+        "type": "编辑稿",
+        "url": "https://mp.weixin.qq.com/s/8mIl0hkzLdOFSZRlzaAycA",
+        "summary": "「weekly」栏目"
+      },
+      {
+        "id": "1779686608576-mvv8rjl",
+        "platformId": "preset-jiandanxinli",
+        "title": "真正的休息后，我找回了「活人感」",
+        "publishDate": "2025-04-30",
+        "reads": 18000,
+        "engagement": 1542,
+        "type": "采访稿",
+        "url": "https://mp.weixin.qq.com/s/3xpFjIwPoYGGs4Xrt3FU1Q",
+        "summary": "捕捉「活人感」这一社交媒体流行词的传播窗口期，以问卷调研+线上采访形式收集读者的休息方法，筛选提炼为可读性强的方法合集。"
+      },
+      {
+        "id": "1779686778229-lqjpf50",
+        "platformId": "preset-jiandanxinli",
+        "title": "为什么越了解，越想分开？",
+        "publishDate": "2025-05-13",
+        "reads": 20000,
+        "engagement": 935,
+        "type": "编辑稿",
+        "url": "https://mp.weixin.qq.com/s/zqkjS1W9-E_l2ZiCqjxk4g",
+        "summary": "「weekly」栏目"
+      },
+      {
+        "id": "1779686866245-haquz4c",
+        "platformId": "preset-jiandanxinli",
+        "title": "刚醒来就累了？低能量人如何开源节能",
+        "publishDate": "2025-05-15",
+        "reads": 26000,
+        "engagement": 3551,
+        "type": "科普文",
+        "url": "https://mp.weixin.qq.com/s/ZQrRrvWVBPQlCAO1Y-mrnA",
+        "summary": "以现象级流行词「低能量老鼠人」为切入点，以共鸣写作建立读者情感连接，再援引心理学与神经科学研究提供可落地的能量“复健”tips"
+      },
+      {
+        "id": "1779686961381-ud7yzxa",
+        "platformId": "preset-jiandanxinli",
+        "title": "什么是「性同意」：9个说「不」的故事",
+        "publishDate": "2025-05-21",
+        "reads": 19000,
+        "engagement": 1394,
+        "type": "采访稿",
+        "url": "https://mp.weixin.qq.com/s/Qf-Ffx1zlasYVSde1mu58g",
+        "summary": "受社会案件相关公众讨论启发，主动策划并执行深度群像采访，征集真实经历、筛选受访者、完成多轮访谈与文本重构，以9个真实故事呈现「性同意」议题的复杂面向。"
+      },
+      {
+        "id": "1779687044880-oms41x5",
+        "platformId": "preset-jiandanxinli",
+        "title": "这个无意识举动，正在耗尽你的活人感",
+        "publishDate": "2025-05-27",
+        "reads": 57000,
+        "engagement": 4116,
+        "type": "科普文",
+        "url": "https://mp.weixin.qq.com/s/-O_JnnqdS5zF9KbVGvb6uA",
+        "summary": "从个人生活观察出发，将「决策疲劳」这一心理学概念与当代年轻人低能量状态关联，早于相关流行词传播周期主动策划，反响良好，读者共鸣强烈。"
+      },
+      {
+        "id": "1779687092830-p3lj6x0",
+        "platformId": "preset-jiandanxinli",
+        "title": "男人爱得更快，女人爱得更深？",
+        "publishDate": "2025-06-12",
+        "reads": 20000,
+        "engagement": 990,
+        "type": "编辑稿",
+        "url": "https://mp.weixin.qq.com/s/ShHBwAEWDv3HydAB5jv9Wg",
+        "summary": "「weekly」栏目"
+      },
+      {
+        "id": "1779687184231-jpnatfz",
+        "platformId": "preset-jiandanxinli",
+        "title": "生活越难，减肥越难：最常被忽略的减重真相",
+        "publishDate": "2025-06-30",
+        "reads": 31000,
+        "engagement": 3934,
+        "type": "科普文",
+        "url": "https://mp.weixin.qq.com/s/BhLjVFJEsd5zCIb3b27sjw",
+        "summary": "科普压力、激素、睡眠等非饮食因素对体重管理的底层影响，对“压力肥”这一大众模糊认知还原进行解释科普，以治愈轻盈风格写作，读者有强烈共鸣。"
+      },
+      {
+        "id": "1779687265649-014owao",
+        "platformId": "preset-jiandanxinli",
+        "title": "向猫学习！有效缓解内耗的6个身体动作",
+        "publishDate": "2025-11-12",
+        "reads": 16000,
+        "engagement": 2030,
+        "type": "科普文",
+        "url": "https://mp.weixin.qq.com/s/GXIHNHnt_n8nST66PD5RCQ",
+        "summary": "因账号内容策略调整，从深度议题向轻盈治愈风格转型，以「向猫学习」为创意框架，将身体正念动作转化为低门槛、强画面感的可操作内容。"
+      }
+    ]
+  }
+}
